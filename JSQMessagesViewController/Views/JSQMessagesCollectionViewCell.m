@@ -164,8 +164,8 @@ static NSMutableSet *jsqMessagesCollectionViewCellActions = nil;
     self.textView.text = nil;
     self.textView.attributedText = nil;
 
-    self.avatarImageView.image = nil;
-    self.avatarImageView.highlightedImage = nil;
+//    self.avatarImageView.image = nil;
+//    self.avatarImageView.highlightedImage = nil;
 }
 
 - (UICollectionViewLayoutAttributes *)preferredLayoutAttributesFittingAttributes:(UICollectionViewLayoutAttributes *)layoutAttributes
